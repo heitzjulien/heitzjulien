@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/heitzjulien/heitzjulien/main/devcard.svg"
+      src="https://raw.githubusercontent.com/heitzjulien/heitzjulien/devcard/devcard.svg"
     />
   </a>
 </div>
