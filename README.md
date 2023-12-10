@@ -1,16 +1,22 @@
 <h1>Hi there 👋</h1>
 
 <div align="left">
-  <!-- <a href="https://twitter.com/">
+  <a href="https://twitter.com/heitzjulien">
     <img
-      src=""
-      alt="Twitter"
+      src="https://img.shields.io/twitter/follow/heitzjulien?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter" style="border-radius: 3px"
     />
-  </a> -->
+  </a>
+  <a href="https://www.linkedin.com/in/heitzjulien/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%20"
+      alt="Linkedin" style="border-radius: 3px"
+    />
+  </a>
   <a rel="me" href="https://wakatime.com/@018bebdc-4c07-4561-b390-78fae0440fbb">
     <img
       src="https://wakatime.com/badge/user/018bebdc-4c07-4561-b390-78fae0440fbb.svg"
-      alt="Wakatime"
+      alt="Wakatime" style="border-radius: 3px"
     />
   </a>
 
