@@ -1,12 +1,18 @@
 <h1>Hi there 👋</h1>
 
 <div align="left">
-  <a href="https://twitter.com/heitzjulien">
-    <img
-      src="https://img.shields.io/twitter/follow/heitzjulien?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
+
+[//]: # (  <a href="https://twitter.com/heitzjulien">)
+
+[//]: # (    <img)
+
+[//]: # (      src="https://img.shields.io/twitter/follow/heitzjulien?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff")
+
+[//]: # (      alt="Twitter")
+
+[//]: # (    />)
+
+[//]: # (  </a>)
   <a href="https://www.linkedin.com/in/heitzjulien/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%20"
@@ -29,17 +35,21 @@
   </a>
 </div>
 
-<!--
-**heitzjulien/heitzjulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Julien Heitz
 
-Here are some ideas to get you started:
+- Developper Angular at [Schaeffer Productique](www.schaeffer-productique.com)
+- Currently work on [ERP SolinWAI](https://www.schaeffer-productique.com/solin-wai/)
+- I'm student at [HETIC](https://www.hetic.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PostGreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[//]: # (![Typescript]&#40;&#41;)
+
+
