@@ -2,17 +2,6 @@
 
 <div align="left">
 
-[//]: # (  <a href="https://twitter.com/heitzjulien">)
-
-[//]: # (    <img)
-
-[//]: # (      src="https://img.shields.io/twitter/follow/heitzjulien?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff")
-
-[//]: # (      alt="Twitter")
-
-[//]: # (    />)
-
-[//]: # (  </a>)
   <a href="https://www.linkedin.com/in/heitzjulien/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%20"
@@ -50,6 +39,8 @@
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostGreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[//]: # (![Typescript]&#40;&#41;)
+### 📊 Wakatime
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
