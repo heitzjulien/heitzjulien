@@ -9,7 +9,7 @@
     />
   </a>
 
-  <a href="https://>app.daily.dev/heitzjulien" target="_blank">
+  <a href="https://app.daily.dev/heitzjulien" target="_blank">
     <img
       width="256"
       align="right"
