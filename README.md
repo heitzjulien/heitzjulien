@@ -4,7 +4,14 @@
 
   <a href="https://www.linkedin.com/in/heitzjulien/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%20"
+      src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Linkedin"
+    />
+  </a>
+
+  <a href="https://github.com/heitzjulien">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="Linkedin"
     />
   </a>
