@@ -1,30 +1,5 @@
 <h1>Hi there 👋</h1>
 
-<div align="left">
-
-  <a href="https://www.linkedin.com/in/heitzjulien/">
-    <img
-      src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin"
-    />
-  </a>
-
-  <a href="https://github.com/heitzjulien">
-    <img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="Linkedin"
-    />
-  </a>
-
-  <a href="https://app.daily.dev/heitzjulien" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/heitzjulien/heitzjulien/devcard/devcard.png"
-    />
-  </a>
-</div>
-
 ## I am Julien Heitz
 
 - Developper Angular at [Schaeffer Productique](www.schaeffer-productique.com)
@@ -53,3 +28,20 @@ JSON         36 mins         █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/heitzjulien/">
+    <img
+      src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Linkedin"
+    />
+  </a>
+
+  <a href="https://github.com/heitzjulien">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="Linkedin"
+    />
+  </a>
+</div>
